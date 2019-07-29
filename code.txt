@@ -3,3 +3,4 @@
 这算第3行代码--已经和远程服务器上的分支建立关联
 asadadasline4
 line5hehe
+直接在github.com上修改代码供虚拟机上的本地仓库拉取
